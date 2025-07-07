@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gitpython
+sqlalchemy
+aiosqlite
+transformers
+torch
